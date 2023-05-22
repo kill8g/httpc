@@ -1,4 +1,4 @@
-# httpc
+# httpclient
 This is a httpc dynamic library wrapped in C++.
 If you don’t care about the content of the http response, and just want to know if the request was sent successfully, then you can try using it.
 get and post are supported.
